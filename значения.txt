@@ -1,0 +1,15 @@
+Results of tabulating a polynomial according to Horner's scheme
+Polynom: 5.0*X^4 + 5.0*X^3 + 1.0*X^2 + 0.0*X^1 + -11.0*X^0
+Interval from 0.0 to 1.0 step is 0.1
+====================================================
+Value in point 0 is -11
+Value in point 0.1 is -10.985
+Value in point 0.2 is -10.912
+Value in point 0.3 is -10.735
+Value in point 0.4 is -10.392
+Value in point 0.5 is -9.812
+Value in point 0.6 is -8.912
+Value in point 0.7 is -7.594
+Value in point 0.8 is -5.752
+Value in point 0.9 is -3.264
+Value in point 1 is 0
